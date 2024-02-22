@@ -2,8 +2,6 @@
 
 ## Basic Overview
 
-Your interest in different 3D representations, including CAD, OBJ, STL, PLY, GCODE, Deep Learning-based Signed Distance Function (SDF) representation, and NeRF (Neural Radiance Fields), spans a wide range of applications from traditional 3D modeling to cutting-edge research in 3D machine learning. Let's break down each representation to give you a foundational understanding.
-
 ### CAD (Computer-Aided Design)
 
 - **What**: CAD files are used to design, analyze, and optimize products and parts in various engineering fields. These files can represent 2D drawings and 3D models.
