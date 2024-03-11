@@ -20,6 +20,7 @@ SDF:
 
 TextMesh:
 https://arxiv.org/abs/2304.12439
+https://colab.research.google.com/drive/1GGxCQ97ytfawtPaHWHOE3ICs5vYKTdT-#scrollTo=YadOCCCyXT0y
 
 3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models
 1. Paper: https://arxiv.org/abs/2301.11445
