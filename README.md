@@ -26,6 +26,9 @@ https://colab.research.google.com/drive/1GGxCQ97ytfawtPaHWHOE3ICs5vYKTdT-#scroll
 1. Paper: https://arxiv.org/abs/2301.11445
 2. Implimentation: https://github.com/1zb/3DShape2VecSet
 
+SPAGHETTI: Editing Implicit Shapes Through Part Aware Generation
+1. Paper: https://arxiv.org/abs/2201.13168
+2. Implimentation: https://github.com/amirhertz/spaghetti
 Other:
 https://blog.medit.com/medit/the-battle-of-file-formats-stl-vs-obj-vs-ply
 ```
