@@ -21,6 +21,16 @@ SDF:
 TextMesh:
 https://arxiv.org/abs/2304.12439
 
+3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models
+1. Paper: https://arxiv.org/abs/2301.11445
+2. Implimentation: https://github.com/1zb/3DShape2VecSet
+
 Other:
 https://blog.medit.com/medit/the-battle-of-file-formats-stl-vs-obj-vs-ply
+```
+## Tools
+```
+Three studio:
+https://github.com/threestudio-project/threestudio
+
 ```
