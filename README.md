@@ -18,6 +18,9 @@ SDF:
 1. Paper: https://arxiv.org/abs/1901.05103
 2. Implimentation: https://github.com/Lixiyao-meow/DeepSDF
 
+TextMesh:
+https://arxiv.org/abs/2304.12439
+
 Other:
 https://blog.medit.com/medit/the-battle-of-file-formats-stl-vs-obj-vs-ply
 ```
